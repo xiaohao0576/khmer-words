@@ -1,0 +1,89 @@
+    <section class="sheet padding-10mm">
+        <table>
+            <tr>
+                <td><img src="img/image.png"></td>
+                <td>
+                    <p class="khmer">ខ្មែរ</p>
+                    <p class="english">English</p>
+                    <p class="chinese">中文</p>
+                </td>
+                <td><img src="img/image.png"></td>
+                <td>
+                    <p class="khmer">ខ្មែរ</p>
+                    <p class="english">English</p>
+                    <p class="chinese">中文</p>
+                </td>
+            </tr>
+            <tr>
+                <td><img src="img/image.png"></td>
+                <td>
+                    <p class="khmer">ខ្មែរ</p>
+                    <p class="english">English</p>
+                    <p class="chinese">中文</p>
+                </td>
+                <td><img src="img/image.png"></td>
+                <td>
+                    <p class="khmer">ខ្មែរ</p>
+                    <p class="english">English</p>
+                    <p class="chinese">中文</p>
+                </td>
+            </tr>
+            <tr>
+                <td><img src="img/image.png"></td>
+                <td>
+                    <p class="khmer">ខ្មែរ</p>
+                    <p class="english">English</p>
+                    <p class="chinese">中文</p>
+                </td>
+                <td><img src="img/image.png"></td>
+                <td>
+                    <p class="khmer">ខ្មែរ</p>
+                    <p class="english">English</p>
+                    <p class="chinese">中文</p>
+                </td>
+            </tr>
+            <tr>
+                <td><img src="img/image.png"></td>
+                <td>
+                    <p class="khmer">ខ្មែរ</p>
+                    <p class="english">English</p>
+                    <p class="chinese">中文</p>
+                </td>
+                <td><img src="img/image.png"></td>
+                <td>
+                    <p class="khmer">ខ្មែរ</p>
+                    <p class="english">English</p>
+                    <p class="chinese">中文</p>
+                </td>
+            </tr>
+            <tr>
+                <td><img src="img/image.png"></td>
+                <td>
+                    <p class="khmer">ខ្មែរ</p>
+                    <p class="english">English</p>
+                    <p class="chinese">中文</p>
+                </td>
+                <td><img src="img/image.png"></td>
+                <td>
+                    <p class="khmer">ខ្មែរ</p>
+                    <p class="english">English</p>
+                    <p class="chinese">中文</p>
+                </td>
+            </tr>
+            <tr>
+                <td><img src="img/image.png"></td>
+                <td>
+                    <p class="khmer">ខ្មែរ</p>
+                    <p class="english">English</p>
+                    <p class="chinese">中文</p>
+                </td>
+                <td><img src="img/image.png"></td>
+                <td>
+                    <p class="khmer">ខ្មែរ</p>
+                    <p class="english">English</p>
+                    <p class="chinese">中文</p>
+                </td>
+            </tr>
+
+        </table>
+    </section>

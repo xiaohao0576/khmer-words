@@ -1,0 +1,71 @@
+@font-face {
+    font-family: hanuman;
+    src: url('fonts/Hanuman-Regular.ttf');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: hanuman;
+    src: url('fonts/Hanuman-Light.ttf');
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: hanuman;
+    src: url('fonts/Hanuman-Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: hanuman;
+    src: url('fonts/Hanuman-Black.ttf');
+    font-weight: bolder;
+}
+
+table,
+td {
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+}
+
+table tr td:nth-child(odd) {
+    width: 45mm;
+    height: 45mm;
+    padding: 1px;
+}
+
+table tr td:nth-child(even) {
+    width: 45mm;
+    vertical-align: top;
+    padding-left: 1px;
+}
+
+td img {
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+}
+
+td p {
+    line-height: 1.8;
+    margin: 5px;
+}
+
+.khmer {
+    font-family: hanuman;
+    font-size: 25px;
+    color: blue;
+    font-weight: normal;
+}
+
+.english {
+    font-family: hanuman;
+    font-size: 18px;
+}
+
+.chinese {
+    font-size: 18px;
+}
