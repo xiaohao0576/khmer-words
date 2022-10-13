@@ -84,6 +84,5 @@
                     <p class="chinese">中文</p>
                 </td>
             </tr>
-
         </table>
     </section>
